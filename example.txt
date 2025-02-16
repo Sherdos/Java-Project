@@ -1,0 +1,38 @@
+Example 1:
+	
+	Input: the text in the input.txt "ymmcw"
+		1 - Caesar, 2 - Vigener
+		Choose the cipher for enscrypt/descrypt text - 1
+		Enter shifting for enscrypt/descrypt - 2
+		Programm starting ...
+		Programm finished all result safe on output.txt
+	Output:
+		cat output.txt
+		aooey
+
+Example 2:
+	
+	Input: the text in the input.txt "hello"
+		1 - Caesar, 2 - Vigener
+		Choose the cipher for enscrypt/descrypt text - 2
+		Enter key for enscrypt/descrypt - key
+		Choose the mode 1 - encrypt, 2 - decrypt - 1
+		Programm starting ...
+		Programm finished all result safe on output.txt
+	Output:
+		cat output.txt 
+		rijvs
+	
+Example 3:
+	
+	Input: the text in the input.txt "rijvs"
+		1 - Caesar, 2 - Vigener
+		Choose the cipher for enscrypt/descrypt text - 2
+		Enter key for enscrypt/descrypt - key
+		Choose the mode 1 - encrypt, 2 - decrypt - 2
+		Programm starting ...
+		Programm finished all result safe on output.txt
+	Output:
+		cat output.txt 
+		hello	
+
